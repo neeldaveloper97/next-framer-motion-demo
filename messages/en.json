@@ -1,0 +1,11 @@
+{
+    "chat": {
+      "defaultMessage1": "Good day! I am your virtual assistant for searching manuals. You can ask me any question about our technical documents, manuals or specifications. For example, try to ask about the procedure for replacing a component or about the technical parameters of a particular device. I am here to give you quick and accurate answers.",
+      "defaultMessage2": "We found 3 similar products, please select one to start a chat with. If you did not find the product you are looking for, please enter the serial number or product name in the chat introduction.",
+      "feedbackLabel": "Is this conversation helpful?",
+      "heroMessage1": "The Ultimate Blog Management System",
+      "heroMessage2": " We build beautiful products with the latest technologies and frameworks. We are a team of passionate developers and designers that love to build amazing products.",
+      "footerMessage": "Inspiring content, every day."
+
+    }
+  }

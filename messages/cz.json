@@ -1,0 +1,10 @@
+{
+    "chat": {
+      "defaultMessage1": "Dobrý den! Jsem váš virtuální asistent pro vyhledávání v manuálech. Můžete mi položit jakoukoliv otázku týkající se našich technických dokumentů, návodů nebo specifikací. Například, zkuste se zeptat na postup výměny součástky nebo na technické parametry konkrétního zařízení. Jsem tu, abych vám poskytl rychlé a přesné odpovědi.",
+      "defaultMessage2": "Našli jsme 3 podobné produkty, prosím vyberte jeden, s kterým chcete zahájit chat. Pokud jste nenašli produkt, který hledáte, tak prosím zadejte seriové číslo nebo název produktu do úvodu chatu.",
+      "feedbackLabel": "Je tato konverzace nápomocná?",
+      "heroMessage1": "Ultimativní systém pro správu blogů",
+      "heroMessage2": "Vytváříme krásné produkty s nejnovějšími technologiemi a frameworky. Jsme tým vášnivých vývojářů a designérů, kteří milují vytváření úžasných produktů.",
+      "footerMessage": "Inspirativní obsah každý den."
+    }
+  }
